@@ -34,8 +34,6 @@ El proyecto está diseñado para practicar:
 - Interfaces gráficas simples
 - Historia presentada paso a paso
 
-*(Adaptá esta sección según las funcionalidades reales específicas de tu juego)*
-
 ---
 
 ## 🚀 Cómo ejecutar el proyecto
